@@ -14,7 +14,7 @@
     "@types/d3": "^5.0.0",
     "d3": "^5.5.0",
     "pegjs": "^0.10.0",
-    "rollup": "^0.62.0",
+    "rollup": "^3.29.5",
     "rollup-plugin-node-resolve": "^3.3.0",
     "rollup-plugin-typescript2": "^0.15.1"
   },
